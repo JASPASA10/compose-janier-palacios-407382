@@ -97,26 +97,14 @@ fun ScreenContent(name: String) {
 
 ## Funcionalidades Implementadas
 
-- ✅ **Scaffold completo:** Barra superior, contenido central y barra inferior
-- ✅ **Navegación básica:** Cambio de pantallas usando estado local
-- ✅ **Diseño responsivo:** Layout que se adapta al contenido
-- ✅ **Material Design 3:** Componentes modernos y consistentes
-- ✅ **Estructura modular:** Código organizado en composables reutilizables
+-  **Scaffold completo:** Barra superior, contenido central y barra inferior
+-  **Navegación básica:** Cambio de pantallas usando estado local
+- **Diseño responsivo:** Layout que se adapta al contenido
+-  **Material Design 3:** Componentes modernos y consistentes
+-  **Estructura modular:** Código organizado en composables reutilizables
 
 ---
 
-## 📹 Video de Implementación
-
-**IMPORTANTE:** Para completar la entrega, se requiere un video explicativo de máximo 5 minutos donde se demuestre:
-
-1. **Explicación del Scaffold:** Cómo funciona la estructura de navegación
-2. **Demostración de navegación:** Mostrar el cambio entre pantallas
-3. **Análisis del código:** Explicar los composables y su funcionalidad
-4. **Navegación entre ramas:** Explicar las diferencias entre cada rama del proyecto
-
-**Enlace al video:** [Agregar aquí el enlace del video una vez subido a YouTube]
-
----
 
 ## Tecnologías Utilizadas
 
